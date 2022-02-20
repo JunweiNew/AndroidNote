@@ -1,0 +1,9 @@
+wget https://storage.googleapis.com/git-repo-downloads/repo ./
+chmod a+x repo
+
+
+https://source.android.com/setup/build/downloading
+https://source.android.com/setup/start/build-numbers#source-code-tags-and-builds
+
+
+./repo init -u https://android.googlesource.com/platform/manifest -b android-12.0.0_r1
